@@ -2,7 +2,7 @@
   {
     "name": "Aadarchi documentation",
     "url": "https://riduidel.github.io/aadarchi/",
-    "icon": "https://favicons.githubusercontent.com/riduidel.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/riduidel.github.io.ico",
     "slug": "aadarchi-documentation",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 43,
-    "timeWeek": 129,
+    "timeDay": 138,
+    "timeWeek": 126,
     "timeMonth": 139,
     "timeYear": 159,
     "dailyMinutesDown": {}
